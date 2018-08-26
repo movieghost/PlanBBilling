@@ -1,6 +1,7 @@
-
+.vs
 bin
 obj
 *.suo
 *.sln
 *.csproj
+*.csproj.user
